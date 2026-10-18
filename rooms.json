@@ -1,0 +1,199 @@
+[
+  {
+    "id": "70266205176042510",
+    "name": "Полулюкс Комфорт",
+    "description": "Стоимость проживания:\n\nПолные сутки — 25 000 тенге\nПолсуток — 20 000 тенге\nЗавтрак включён в стоимость для каждого гостя.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer1.2gis.com/market/4c7c1a6e-2ea9-40cd-9bea-6b4ecd52c146.jpg?h={height}&w={width}",
+      "https://cachizer3.2gis.com/market/feadb745-10d7-4a75-8575-a9483f03f3af.jpg?h={height}&w={width}",
+      "https://cachizer3.2gis.com/market/921352e4-e42f-4102-8555-f73c4d5d1c5c.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/689ecfd4-b6cd-4f8c-a224-4fc584b56b8b.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/90e0ae25-aac8-4965-9f14-cb29dc90411c.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  },
+  {
+    "id": "70266205175351830",
+    "name": "Полулюкс Комфорт",
+    "description": "Стоимость проживания:\n\nПолные сутки — 25 000 тенге\nПолсуток — 20 000 тенге\nЗавтрак включён в стоимость для каждого гостя.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer2.2gis.com/market/7b57c7d9-94cc-4266-a847-14534fc09910.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/6f5a20a2-2ea9-474a-b514-b3b1dbd5a168.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/a6deaa84-ea90-4f3f-b8d1-fc0e2ab2459d.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/cb8a454e-4668-456a-97d0-2b6734504479.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/11fef847-1bc3-4482-a6f9-057f24491109.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  },
+  {
+    "id": "70266205175876081",
+    "name": "Трёхместный номер Комфорт",
+    "description": "Стоимость проживания:\n\nПолные сутки — 33 000 тенге\nПолсуток — 28 000 тенге\nЗавтрак включён в стоимость для каждого гостя.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer2.2gis.com/market/cda09d88-0cff-4b85-9a45-306f7b037eb9.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/e608c2c2-65f0-4cd1-b78d-4b3f92013f72.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/3eb9c765-797d-4c9a-873f-b6054a6264c8.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/ed7b4c75-0097-47bb-90ae-2d61dc9cb877.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/e5e45f9c-af84-462e-b4d7-2438f8361c0b.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/d941175f-7374-4f76-abc5-6686ba137ff3.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/bc7f1ace-3177-4116-8d30-c23051a34cb8.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/92892937-db44-4646-a4cf-582fb86a3830.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  },
+  {
+    "id": "70266205175351071",
+    "name": "Стандарт",
+    "description": "Стоимость проживания:\n\nПолные сутки — 14 000 тенге\nПолсуток — 12 000 тенге\nЗавтрак включён в стоимость.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer2.2gis.com/market/bde1f008-a28c-4fcc-8df6-0d9823a34458.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/d9e20a5b-9a7d-40c3-816c-123865f1067b.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/83f94a93-5630-44d4-ad7d-1bd47564ca54.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  },
+  {
+    "id": "70266205175352387",
+    "name": "Люкс",
+    "description": "Стоимость проживания:\n\nПолные сутки — 26 000 тенге\nПолсуток — 20 000 тенге\nЗавтрак включён в стоимость для каждого гостя.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer1.2gis.com/market/5c6a2627-9f53-4da4-9d14-2a6f9fac1085.jpg?h={height}&w={width}",
+      "https://cachizer2.2gis.com/market/15741c0c-b337-4658-aa36-c9ba7b8699b2.jpg?h={height}&w={width}",
+      "https://cachizer3.2gis.com/market/deb77a7c-781a-419b-b7ca-e177e4d1f9b8.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  },
+  {
+    "id": "70266205176221366",
+    "name": "Полулюкс",
+    "description": "Стоимость проживания:\n\nПолные сутки — 19 000 тенге\nПолсуток — 15 000 тенге\nЗавтрак включён в стоимость для каждого гостя.",
+    "attributes": [],
+    "attribute_groups": [],
+    "blocking_attributes": [
+      {
+        "caption": "Номер"
+      }
+    ],
+    "fas": null,
+    "images": [
+      "https://cachizer2.2gis.com/market/e7310023-889d-4dc9-816d-4c53e8b9f506.jpg?h={height}&w={width}",
+      "https://cachizer3.2gis.com/market/c83c19b9-7d60-461e-b2e4-b5701b3c5011.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/5cbddcf7-edf7-4b94-86a1-33e32aafc6ef.jpg?h={height}&w={width}",
+      "https://cachizer1.2gis.com/market/2db88669-b495-449f-8386-3c431d3e7338.jpg?h={height}&w={width}",
+      "https://cachizer3.2gis.com/market/af6f728e-4660-44ba-aadc-04762af8ec86.jpg?h={height}&w={width}"
+    ],
+    "categories": [
+      {
+        "id": "70265201835334638",
+        "label": "Номер"
+      }
+    ],
+    "source": {
+      "code": "LkPriceItemManual"
+    },
+    "type": "raw_product",
+    "is_advertised": false,
+    "is_promoted": false,
+    "reference_product_id": null
+  }
+]
